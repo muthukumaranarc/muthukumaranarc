@@ -1,145 +1,92 @@
-```
-███╗   ███╗██╗   ██╗████████╗██╗  ██╗██╗   ██╗██╗  ██╗██╗   ██╗███╗   ███╗ █████╗ ██████╗  █████╗ ███╗   ██╗
-████╗ ████║██║   ██║╚══██╔══╝██║  ██║██║   ██║██║ ██╔╝██║   ██║████╗ ████║██╔══██╗██╔══██╗██╔══██╗████╗  ██║
-██╔████╔██║██║   ██║   ██║   ███████║██║   ██║█████╔╝ ██║   ██║██╔████╔██║███████║██████╔╝███████║██╔██╗ ██║
-██║╚██╔╝██║██║   ██║   ██║   ██╔══██║██║   ██║██╔═██╗ ██║   ██║██║╚██╔╝██║██╔══██║██╔══██╗██╔══██║██║╚██╗██║
-██║ ╚═╝ ██║╚██████╔╝   ██║   ██║  ██║╚██████╔╝██║  ██╗╚██████╔╝██║ ╚═╝ ██║██║  ██║██║  ██║██║  ██║██║ ╚████║
-╚═╝     ╚═╝ ╚═════╝    ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
-```
-<h3 align="center">
-Full Stack Java Developer | React JS Developer | Spring Boot Developer
-</h3>
+<div align="center">
 
-<p align="center">
+# Muthukumaran A R
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=E14E1D&center=true&vCenter=true&random=false&width=700&lines=Full+Stack+Java+Developer;Spring+Boot+Developer;React+JS+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies"/>
+### Full-stack Java developer building useful, reliable web products.
 
+<p>
+  <a href="https://muthukumaran-portfolio.web.app">Portfolio</a>
+  &nbsp;&middot;&nbsp;
+  <a href="https://linkedin.com/in/muthukumaranarc00">LinkedIn</a>
+  &nbsp;&middot;&nbsp;
+  <a href="https://leetcode.com/u/Jq4H1BglTL">LeetCode</a>
+  &nbsp;&middot;&nbsp;
+  <a href="mailto:muthukumaranarc00@gmail.com">Email</a>
 </p>
 
-<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1200&color=6E56CF&center=true&vCenter=true&width=620&lines=Java+%7C+Spring+Boot+%7C+React;Designing+clean+APIs+and+interfaces;Learning%2C+building%2C+shipping" alt="Typing introduction" />
 
-<a href="https://linkedin.com/in/muthukumaranarc00">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:muthukumaranarc00@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://leetcode.com/u/Jq4H1BglTL">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://muthukumaran-portfolio.web.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome"/>
-</a>
-
-</p>
+</div>
 
 ---
 
-# 💫 About Me
+## About
 
-<img align="right" width="320" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Fsazk1cHM5aXF4dmZhNXV6Ync5aGV2cmhuMW5iOG1hdGpoc3AyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MeJgB3yMMwIaHmKD4z/giphy.gif"/>
+I am a B.Tech Artificial Intelligence and Data Science student focused on full-stack development with Java. I enjoy turning ideas into maintainable applications, from a well-structured backend API to a thoughtful frontend experience.
 
-I'm an aspiring **Full Stack Java Developer** passionate about building modern, scalable, and user-friendly web applications.
+- Building full-stack applications with **Spring Boot** and **React**
+- Strengthening my foundations in **data structures, system design, and cloud deployment**
+- Exploring **security, microservices, containers, and CI/CD**
+- Open to collaborating on practical, developer-focused projects
 
-#### 🎓 **B.Tech AIDS Student**
-
-#### 💎 **Specializing in**
-
-- Java
-- Spring Boot
-- React JS
-- REST APIs
-- MongoDB
-- MySQL
-
-#### 🌱 **Currently Learning**
-
-```text
-Spring Security
-JWT Authentication
-Docker
-AWS
-Microservices
-CI/CD
-Kubernetes (Basics)
-```
-
-#### 🎯 **Goal**
-
-To become a Software Engineer at a top product-based company while continuously improving my problem-solving and development skills.
-
-
----
-
-# 💻 Tech Stack
-
-##### Languages 
-<a href="https://www.google.com/search?q=Java+programming+language" target="_blank"><img src="https://skillicons.dev/icons?i=java"/></a>
-<a href="https://www.google.com/search?q=JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js"/></a>
-<a href="https://www.google.com/search?q=Python+programming" target="_blank"><img src="https://skillicons.dev/icons?i=python"/></a>
-
-##### Frontend 
-<a href="https://www.google.com/search?q=React+JS" target="_blank"><img src="https://skillicons.dev/icons?i=react"/></a>
-<a href="https://www.google.com/search?q=Vite+build+tool" target="_blank"><img src="https://skillicons.dev/icons?i=vite"/></a>
-<a href="https://www.google.com/search?q=Tailwind+CSS" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind"/></a>
-
-##### Backend
-<a href="https://www.google.com/search?q=Spring+Boot+framework" target="_blank"><img src="https://skillicons.dev/icons?i=spring" alt="Spring"/></a>
-<a href="https://www.google.com/search?q=Hibernate+ORM" target="_blank"><img src="https://skillicons.dev/icons?i=hibernate" alt="Hibernate"/></a>
-<a href="https://www.google.com/search?q=Apache+Maven" target="_blank"><img src="https://skillicons.dev/icons?i=maven" alt="Maven"/></a>
-
-##### Database
-<a href="https://www.google.com/search?q=MySQL+database" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/></a>
-<a href="https://www.google.com/search?q=MongoDB" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB"/></a>
-
-##### Tools
-<a href="https://www.google.com/search?q=Git+version+control" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git"/></a>
-<a href="https://www.google.com/search?q=GitHub" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
-<a href="https://www.google.com/search?q=Visual+Studio+Code" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" alt="VSCode"/></a>
-<a href="https://www.google.com/search?q=IntelliJ+IDEA" target="_blank"><img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA"/></a>
-<a href="https://www.google.com/search?q=Google+Firebase" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase"/></a>
-<a href="https://www.google.com/search?q=Postman+API" target="_blank"><img src="https://skillicons.dev/icons?i=postman" alt="Postman"/></a>
-<a href="https://www.google.com/search?q=Figma+design+tool" target="_blank"><img src="https://skillicons.dev/icons?i=figma" alt="Figma"/></a>
-
-
----
-
-# 📌 Currently Working On
-
-- 🚀 Full Stack Web Applications
-- ☕ Advanced Spring Boot
-- 📚 Data Structures & Algorithms
-- ☁ Cloud Deployment
-- 🐳 Docker
-- ⚡ System Design
-
----
-
-# 💡 Quote I Live By
-
-> "Success isn't about being the smartest. It's about showing up consistently, learning continuously, and never giving up."
-
----
-
-# 📈 Goals for 2026
-
-- ✅ Master Spring Boot
-- ✅ Build impactful Full Stack Projects
-- ✅ Solve 500+ LeetCode Problems
-- ✅ Contribute to Open Source
-- ✅ Earn AWS Certification
-- ✅ Land a Software Engineering Internship
-- ✅ Grow as a Full Stack Developer
-
----
+## Tech stack
 
 <div align="center">
 
-### Thanks for visiting my profile! 👋
+### Languages
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=120&section=footer"/>
+<img src="https://skillicons.dev/icons?i=java,js,python" alt="Java, JavaScript, and Python" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind" alt="React, Vite, and Tailwind CSS" />
+
+### Backend and data
+
+<img src="https://skillicons.dev/icons?i=spring,hibernate,maven,mysql,mongodb" alt="Spring, Hibernate, Maven, MySQL, and MongoDB" />
+
+### Tools and platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,firebase,postman,figma" alt="Git, GitHub, VS Code, IntelliJ IDEA, Firebase, Postman, and Figma" />
+
+</div>
+
+## Current focus
+
+```text
+Spring Security       JWT authentication
+Docker                AWS and cloud deployment
+Microservices         CI/CD and Kubernetes fundamentals
+Data structures       System design
+```
+
+## 2026 goals
+
+- Ship more polished, end-to-end projects
+- Deepen my Spring Boot and distributed systems knowledge
+- Solve challenging algorithm and problem-solving questions
+- Contribute to open source
+- Earn an AWS certification
+
+## Let's connect
+
+If you are building something interesting or want to exchange ideas about Java, Spring Boot, or React, feel free to reach out.
+
+<div align="center">
+
+<a href="mailto:muthukumaranarc00@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://linkedin.com/in/muthukumaranarc00">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://muthukumaran-portfolio.web.app">
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
+
+<br />
+<br />
+
+<sub>Build with curiosity. Improve with consistency.</sub>
 
 </div>
